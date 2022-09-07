@@ -17,5 +17,11 @@ The first step in the analysis was to find the retirement eligible employees and
 [Mentorship Eligibility](https://github.com/mbandyo/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
 
 ## Conclusion:
+From unique retireing titles we can conclude about 72500 (exactly 72458) roles would have to be filled just to supplement the retiring workforce. This number does not include any potential increase in workfore to accommodate business expansion.
+However there are about 50000 (exactly 499494 from mentorship eligibility data set) heads available in the current workforce for mentorship program and could be trained for transferring expertise to continue business. 
+Even without considering natural attrition, the available workfore would not be enough to spplement the retiring employees and business continuity would be unsustainable. 
+The management should have a strategy for retaining and continuing along with recruiting and training employees for on going business viability.
+
+
 
 [^footnote1]: This csv file is too large and may not open inline. Please view raw data or download the file if needed.
