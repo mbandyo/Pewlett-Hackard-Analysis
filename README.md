@@ -18,4 +18,4 @@ The first step in the analysis was to find the retirement eligible employees and
 
 ## Conclusion:
 
-[^footnote1]: Ths csv file is too large and may not open inline. Please view raw data or download the file if needed.
+[^footnote1]: This csv file is too large and may not open inline. Please view raw data or download the file if needed.
