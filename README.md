@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 After initial data consolidation and analysis, it transpired that a large number of employessa are nearing retirement. In order to ensure a smooth trransition, management ia considering instituting a mentorship program through which retiring employees can be engaged part time until full retirement and can transfer important subject matter expertise and general knowledge for running business without disruption.
-#### Specific goals include:
+## Specific goals include:
 1. Determine the number of retiring employees per title
 2. Identify current employees eligible for participating in mentorship program.
 ### Determination of Potential Personnel Gaps
@@ -13,6 +13,9 @@ The first step in the analysis was to find the retirement eligible employees and
     
 3. A query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring. Following is a link to the resulting data file:</br>
 [Retiring Titles](https://github.com/mbandyo/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
-5. The titles of retirement eligible employees
-6. The employees eligible to participate in mentoring program to fill the knowledge gap through retirement
-[^footnote1]: The csv files are too big and may not open inline. Please view raw data or download the file if needed.
+4. A query to create a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program. Following is a link to the resulting data file:</br>
+[Mentorship Eligibility](https://github.com/mbandyo/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
+
+## Conclusion:
+
+[^footnote1]: Ths csv file is too large and may not open inline. Please view raw data or download the file if needed.
